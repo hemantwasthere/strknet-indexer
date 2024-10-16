@@ -1,0 +1,13 @@
+{
+    "header": {
+        "weak": true
+    },
+    "events": [
+        {
+            "from_address": "0x048de504139ee7733eb958d6b34e291620a200eb10ba998046ee36486e5d11b7",
+            "keys": [
+                "0x5ad857f66a5b55f1301ff1ed7e098ac6d4433148f0b72ebc4a2945ab85ad53"
+            ]
+        }
+    ]
+}
