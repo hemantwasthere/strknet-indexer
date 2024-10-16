@@ -35,3 +35,5 @@ CREATE TABLE IF NOT EXISTS transactions (
 
 Right now i'm getting some strange error while running the `script.js` file with `apibara`, didn't get any solution for this in docs or on google. The error is:
 ![alt text](image.png)
+
+## random video resource - *<https://www.youtube.com/watch?v=XCxAvuutks4>*
